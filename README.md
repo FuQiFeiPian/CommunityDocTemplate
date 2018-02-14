@@ -67,7 +67,7 @@ See also the list of [contributors](https://github.com/YOURNAME/YOURREPO/graphs/
 
 ### Acknowledgments
 
-See [Acknowledgments](https://github.com/YOURNAME/YOURREPO/blob/master/docs/Acknowledgments.md)
+See [Acknowledgments](https://github.com/YOURNAME/YOURREPO/blob/master/docs/ACKNOWLEDGMENTS.md)
 
 
 ### License
