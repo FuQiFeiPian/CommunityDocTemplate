@@ -1,5 +1,16 @@
 # Project Title
 
+# Project status
+
+[![GitHub release](https://img.shields.io/github/release/OWNER/REPO.svg)](https://github.com/OWNER/REPO/releases)
+![Github All Releases](https://img.shields.io/github/downloads/OWNER/REPO/total.svg)
+[![Docker Pulls](https://img.shields.io/docker/pulls/OWNER/dns-proxy-x86.svg)](https://hub.docker.com/r/OWNER/REPO/tags/)
+
+![Travis (.org) branch](https://img.shields.io/travis/OWNER/REPO/BRANCH.svg)
+[![Docker Automated build](https://img.shields.io/docker/automated/OWNER/REPO.svg)](https://hub.docker.com/r/OWNER/REPO/)
+[![Docker Build Status](https://img.shields.io/docker/build/OWNER/REPO.svg)](https://hub.docker.com/r/OWNER/REPO/builds/)
+
+![GitHub](https://img.shields.io/github/license/OWNER/REPO.svg)
 
 One Paragraph of project description goes here
 
@@ -52,8 +63,8 @@ Tools you used for building this project
 
 ### Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/YOURNAME/YOURREPO/blob/master/docs/CONTRIBUTING.md) for contributing.
-For details on our [code of conduct](https://github.com/YOURNAME/YOURREPO/blob/master/docs/CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/OWNER/REPO/blob/master/docs/CONTRIBUTING.md) for contributing.
+For details on our [code of conduct](https://github.com/OWNER/REPO/blob/master/docs/CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
 
 ### Versioning
 
@@ -61,17 +72,17 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ### Authors
 
-* **YOURNAME** - *Initial work* - [YOURNAME](https://github.com/YOURNAME)
+* **AUTHOR** - *Initial work* - [AUTHOR](https://github.com/AUTHOR)
 
-See also the list of [contributors](https://github.com/YOURNAME/YOURREPO/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/OWNER/REPO/graphs/contributors) who participated in this project.
 
 ### Acknowledgments
 
-See [Acknowledgments](https://github.com/YOURNAME/YOURREPO/blob/master/docs/ACKNOWLEDGMENTS.md)
+See [Acknowledgments](https://github.com/OWNER/REPO/blob/master/docs/ACKNOWLEDGMENTS.md)
 
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/YOURNAME/YOURREPO/blob/master/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/OWNER/REPO/blob/master/LICENSE.md) file for details
 
 
