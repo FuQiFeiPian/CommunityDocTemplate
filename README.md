@@ -10,7 +10,7 @@
 
 [![GitHub release](https://img.shields.io/github/release/OWNER/REPO.svg)](https://github.com/OWNER/REPO/releases)
 ![Github All Releases](https://img.shields.io/github/downloads/OWNER/REPO/total.svg)
-[![Docker Pulls](https://img.shields.io/docker/pulls/OWNER/dns-proxy-x86.svg)](https://hub.docker.com/r/OWNER/REPO/tags/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/OWNER/REPO.svg)](https://hub.docker.com/r/OWNER/REPO/tags/)
 ![Travis (.org) branch](https://img.shields.io/travis/OWNER/REPO/BRANCH.svg)
 [![Docker Automated build](https://img.shields.io/docker/automated/OWNER/REPO.svg)](https://hub.docker.com/r/OWNER/REPO/)
 [![Docker Build Status](https://img.shields.io/docker/build/OWNER/REPO.svg)](https://hub.docker.com/r/OWNER/REPO/builds/)
