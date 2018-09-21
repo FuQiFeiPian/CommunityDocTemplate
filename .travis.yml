@@ -1,0 +1,15 @@
+language: generic
+
+sudo: required
+dist: trusty
+
+branches:
+  only:
+  - "/^\\d+\\.\\d+(\\.\\d+)?(-\\S*)?$/"
+
+install: true
+
+script: make build
+
+deploy:
+  
