@@ -8,7 +8,7 @@
 
 ### People of xxx 
 For kindness, support, inspiration, testing, reporting errors and general help.
-meta-androcto, lijenstina, linda_bliblubli, Tynkatopi, nBurn, bzztploink, mirlip, gidio
+
 
 ### People of xxx
 Working to provide a dedicated material library.
