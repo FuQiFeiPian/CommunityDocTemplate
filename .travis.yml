@@ -5,14 +5,14 @@ branches:
   only:
   - "/^\\d+\\.\\d+(\\.\\d+)?(-\\S*)?$/"
 install: true
-script: make build
+script: make build VERSION=$TRAVIS_TAG
 deploy:
   provider: releases
+  file_glob: true
   api_key:
     secure: OS1u3Y2xYq6OK2NP52HodIniSj93jgpyYza50+xiPiKMhhf2A3etJhTKBb1Sq1xVJ3MRgom48NO47XcA2gAZ+FBENtjaPvNv1v+BOA68ioyufFFoV/Nx6O/bVLrnsb9bHHjFZvKVRPgn42ypoZrhNxI299tPQau2Gcsb+jAXur0htxrQ+w6K+VqBcZZJyl/T/aCvMXIa0S4Mxr+lulddEwE47CoQ33QEePxJ5iWYzrRfy5obu6gAq4EDlDiG/Fz6qmajYmvYFYqVl0ULdN5XdT19+U8oFd/2/dCS3KAp6sw5C9/zyogxlhhl5DGL1gTf4ZmAVUm4I0xXKElPlL9PxoZswZa3mp8H2ZJaU1KzbATyhjVUNSDuW8vbHE8qMes8w/TA/KUdcCyXRLFj3In/uedPek0dSGfwxxzSJg3B9TrzDv4DF5083xbstgK9ToohRC2Ws1gVEsHksqkwZEj5VepF7cgDsLkEp45+0CTswYVJfCu7vrLNokNkeP7WZxkONTMDT38RHZcZDd2ObEmNWOPHxyZorpXeirikUCmnnmj+tz2E9oKdRu37UyqTg573uGfmk/HaVcwMTzdMg42dywkNPHAEqdg2YIOlAxQJpwtncSb6DsWy6qsgsIw3Zro9U+Fn9HktEYaCEhJcewld4wcTTA2WiyXcciFg4miFlg0=
-  file: communitydocs.zip
+  file: ./*.zip
   skip_cleanup: true
   on:
     tag: true
     all_branches: true
-    repo: hellstein/community-doc-template
