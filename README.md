@@ -6,12 +6,12 @@ cd myproj
 ```
 ### Get the [release](https://github.com/hellstein/devops-community-docs/releases)
 ```
-wget https://github.com/hellstein/devops-community-docs/releases/download/0.1.1/community-docs-0.1.1.zip
+wget https://github.com/hellstein/devops-community-docs/releases/download/0.1.2/community-docs-0.1.2.zip
 ```
 
 ### Unzip
 ```
-unzip community-docs-0.1.1.zip
+unzip community-docs-0.1.2.zip
 ```
 
 ### Install community docs
